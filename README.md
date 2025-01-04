@@ -1,6 +1,6 @@
 # COVID-19 Pediatric Data Analysis
 
-This project analyzes a pediatric COVID-19 dataset using machine learning techniques to predict SARS-CoV-2 test results based on various clinical features.
+This project analyzes a pediatric COVID-19 dataset using supervised and unsupervised machine learning techniques to predict SARS-CoV-2 test results based on various clinical features.
 
 ## Models
 
@@ -69,7 +69,7 @@ Target variable: SARS-CoV-2 exam result (positive/negative)
      - Performance evaluation
      - Visualization of results
 
-3. The notebooks will guide you through:
+3. The notebooks contain the following sections:
    - Loading and cleaning the dataset
    - Feature preprocessing and selection
    - Model training and evaluation
